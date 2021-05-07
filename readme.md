@@ -11,7 +11,7 @@ Though purchasing carbon credits offsets CO2 emissions, they do not prevent init
 
 ### Lack of data transparency
 
-Creators and researchers disagree on early figures suggest that minting an NFT on Ethereum requires 35 kWh or 8,600 grams of CO2 due to the lack of verified and audited data on energy consumption and sources from minting. Much of the data focuses on energy consumption from the process of how blockchain data is verified (ex. proof of stake vs. proof of work) while the sources from minting remain unclear.
+Creators and researchers disagree on early figures suggest that minting an NFT on Ethereum requires 35 kWh or 8,600 grams of CO2 due to the lack of verified and audited data on energy consumption and sources from minting [1]. Much of the data focuses on energy consumption (calculations based on the hashrate) from the process of how blockchain data is verified (ex. proof of stake vs. proof of work) while the sources from minting remain unclear [10].
 
 Miners play an important role in reducing carbon emissions of the blockchain, and therefore, should receive incentives to make data transparent and for efforts for greener minting. Miners make critical decisions on the supply chain acquisition of infrastructure, property maintenance of facilities and surrounding land, and energy sources that fuel the mining.
 
@@ -31,10 +31,14 @@ The concept of a community mining facility can become a reality. NFT creators ca
 
 In addition, registration of a project on Regen can be included in a proposal of new mining facilities. The Regen Network can partner with specific blockchains to offer new miners opportunities to register a project and participate in a full project lifecycle on Regen [7].
 
-NFT marketplaces can utilize the Regen Ledger and APIs, as well as buy data on the Regen marketplace, to show the CO2 emissions and restorative land practices of mining facilities to creators and fans.
-
 ### Supply Chain Tracking
 Miners can utilize a combination of the Supply Protocol and oracles of supply chain tracking data (ex. from XYO) to ensure a more sustainable supply chain of mining infrastructure [9].
+
+## Conclusion 
+
+NFT marketplaces can utilize the Regen Ledger and APIs, as well as buy data on the Regen marketplace, to show the CO2 emissions and restorative land practices of mining facilities to creators and fans. 
+
+The comprehensiveness of the data and emphasis on ecological change of land would better help NFT creators evaluate the ecological impact of minting NFTs on a specific blockchain, as opposed to calculating just energy consumption. By incentivizing miners to provide the data, NFT creators will no longer need to guess the long-term sustainability of a blockchain. 
 
 ## References
 
@@ -47,5 +51,6 @@ Miners can utilize a combination of the Supply Protocol and oracles of supply ch
 7. https://regen-registry.s3.amazonaws.com/Regen+Registry+Project+Developers+101.pdf
 8.  https://regen-network.gitlab.io/whitepaper/WhitePaper.pdf, Page 18
 9.  https://regen-network.gitlab.io/whitepaper/WhitePaper.pdf, Page 11
+10.  https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume
 
 
