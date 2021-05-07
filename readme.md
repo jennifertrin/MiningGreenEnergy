@@ -1,7 +1,7 @@
 # Rewarding Miners for Green Practices
 This proposal was originally created for the Green NFT Hackathon: Regen Sponsor Prize Bounty.
 
-Author: Jennifer Tran
+Author: Jennifer Tran, [Linkedin](https://www.linkedin.com/in/jennifertranlogistics/)
 
 ## The Problem
 
