@@ -19,10 +19,27 @@ Miners play an important role in reducing carbon emissions of the blockchain, an
 
 Miners can join the Regen Network protocol to verify data on land restoration and supply chain, while the Regen Network protocol can provide REGEN tokens to contributing miners and supply the data to share with NFT marketplaces and specific blockchain community members. 
 
+### CO2 Emissions and Data Source Verification
+
+Though there is no protocol related to energy courses on the Regen Network, in the future, Regen Network can integrate with tracking systems which are electronic databases that register basic information about each megawatt-hour (MWh) of renewable generation for enterprise businesses [4]. Basing off of the current data integrity validation method on Regen, credible tracking systems can upload renewable energy certificates to IPFS or another permanent URL and point it to a geographic identifier of the mining facility [5]. 
+
+### Land Restoration Verification
+
+Many minting facilities are abandoned, formerly industrial properties (ex. factories) that were refurbished for minting [6]. Through the Regen Network Ecological State Protocols (ESPs), they can continue to verify and get rewarded for land restoration improvements. For example, a former plant converted into a minting facility can track the change in methane gas using the Methane Emissions Protocol and receive returns of $5 an hectacre a year or more [7, 8].
+
+NFT creators can participate in land restoration of mining facilities of blockchains that they mint on and earn credits. 
+
+NFT marketplaces can utilize the Regen Ledger and APIs, as well as buy data on the Regen marketplace, to show the CO2 emissions and restorative land practices of mining facilities to creators and fans. 
 
 ## References
 
 1. https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053
 2. https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator
 3. https://www.climatecare.org/calculator/
+4. https://www.epa.gov/greenpower/renewable-energy-tracking-systems
+5. https://regen-network.gitlab.io/whitepaper/WhitePaper.pdf, Page 12
+6. https://youtu.be/-RdDmRlCbRE
+7. https://regen-registry.s3.amazonaws.com/Regen+Registry+Project+Developers+101.pdf
+8.  https://regen-network.gitlab.io/whitepaper/WhitePaper.pdf, Page 18
+
 
