@@ -27,9 +27,13 @@ Though there is no protocol related to energy courses on the Regen Network, in t
 
 Many minting facilities are abandoned, formerly industrial properties (ex. factories) that were refurbished for minting [6]. Through the Regen Network Ecological State Protocols (ESPs), they can continue to verify and get rewarded for land restoration improvements. For example, a former plant converted into a minting facility can track the change in methane gas using the Methane Emissions Protocol and receive returns of $5 an hectacre a year or more [7, 8].
 
-NFT creators can participate in land restoration of mining facilities of blockchains that they mint on and earn credits. 
+The concept of a community mining faclity can become a reality. NFT creators can participate in land restoration of mining facilities of blockchains that they mint on and earn credits. NFT marketplaces and major businesses that mint NFTs can contribute financial resources in a DAO-like structure for land restoration as well as renewable energy sources integration. 
 
 NFT marketplaces can utilize the Regen Ledger and APIs, as well as buy data on the Regen marketplace, to show the CO2 emissions and restorative land practices of mining facilities to creators and fans. 
+
+### Supply Chain Tracking 
+
+Miners can utilize a combination of the Supply Protocol and oracles of supply chain tracking data (ex. from XYO) to ensure more sustainabile supply chain of mining infrastructure [9].  
 
 ## References
 
@@ -41,5 +45,6 @@ NFT marketplaces can utilize the Regen Ledger and APIs, as well as buy data on t
 6. https://youtu.be/-RdDmRlCbRE
 7. https://regen-registry.s3.amazonaws.com/Regen+Registry+Project+Developers+101.pdf
 8.  https://regen-network.gitlab.io/whitepaper/WhitePaper.pdf, Page 18
+9.  https://regen-network.gitlab.io/whitepaper/WhitePaper.pdf, Page 11
 
 
