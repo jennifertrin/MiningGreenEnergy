@@ -15,7 +15,9 @@ Creators and researchers disagree on early figures suggests that minting an NFT 
 
 Miners play an important role in reducing carbon emissions of the blockchain, and therefore, should receive incentives to make data transparent and for efforts for greener minting. Miners make critical decisions on the supply chain acquistion of infrastructure, property maintanence of facilities and surrounding land, and energy sources that fuel the mining.
 
-### How It Would Work
+## How It Would Work
+
+Miners can join the Regen Network protocol to verify data on land restoration and supply chain, while the Regen Network protocol can provide REGEN tokens to contributing miners and supply the data to share with NFT marketplaces and specific blockchain community members. 
 
 
 ## References
