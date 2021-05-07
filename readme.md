@@ -29,6 +29,8 @@ Many minting facilities are abandoned, formerly industrial properties (ex. facto
 
 The concept of a community mining faclity can become a reality. NFT creators can participate in land restoration of mining facilities of blockchains that they mint on and earn credits. NFT marketplaces and major businesses that mint NFTs can contribute financial resources in a DAO-like structure for land restoration as well as renewable energy sources integration. 
 
+In addition, registration of a project on Regen can be included in a proposals of new mining facilities. The Regen Network can partner with specific blockchains to offer new miners opportunities to register a project and participate in a full project lifecycle on Regen [7]. 
+
 NFT marketplaces can utilize the Regen Ledger and APIs, as well as buy data on the Regen marketplace, to show the CO2 emissions and restorative land practices of mining facilities to creators and fans. 
 
 ### Supply Chain Tracking 
