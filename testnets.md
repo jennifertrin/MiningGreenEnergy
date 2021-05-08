@@ -1,6 +1,8 @@
 # The Use of Sandboxes and Testnets
 
-Parts were published as part of this [Medium article](https://medium.com/mintgate/how-to-create-a-green-nft-on-mintgate-ab5946788160) on April 17, 2021.  
+Parts were published as part of this [Medium article](https://medium.com/mintgate/how-to-create-a-green-nft-on-mintgate-ab5946788160) on April 17, 2021. 
+
+By Jennifer Tran
 
 ## The Challenge
 Early research suggests that minting an NFT on Ethereum, the world’s most popular blockchain, requires 35 kWh or 8,600 grams of CO2. This is the average energy consumption of a European Union resident for four days [1]. Though there are controversies on how carbon footprint data of blockchain transactions are calculation, recent debates have led creators and technologists to seek more ecologically sustainable solutions on minting NFTs.
@@ -16,3 +18,17 @@ MintGate created a sandbox solution that allows creators to test out NFTs with t
 Optionally, they can add lockable content behind the off-chain token.
 2. The off-chain NFT is created. The creator then can create airdrop links and send the individual off-chain NFT to their fans via their Twitter handle.
 3. A fan receives the off-chain NFT by claiming it by clicking an airdrop link or getting it from the creator. If the fan sees the value in the off-chain NFT, they have the option to mint it themselves testnet chains.
+
+## Testnets
+Since testnets have a lower hashrate than mainnet, creators should utilize testnets to mint their NFTs if they are testing out NFTs. Marketplaces with testnets include:
+
+| Marketplace      | Testnets Available | Website |
+| ----------- | ----------- | ----------- |
+| OpenSea     | Ethereum Rinkeby, Polygon Mumbai, Klaytn Baobao | https://testnets.opensea.io/ |
+| Rarible   | Ethereum Rinkeby      | https://rinkeby.rarible.com/      |
+| Mintbase   | NEAR testnet     | https://near.mintbase.io/ |
+
+
+## References 
+1. https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053
+2. https://www.fastcompany.com/1620676/how-much-energy-does-tweet-consume
